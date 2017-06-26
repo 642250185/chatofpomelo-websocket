@@ -12,7 +12,6 @@ var handler = Handler.prototype;
 
 /**
  * Gate handler that dispatch user to connectors.
- *
  * @param {Object} msg message from client
  * @param {Object} session
  * @param {Function} next next stemp callback
